@@ -3,7 +3,7 @@ import pymongo
 import pandas as pd
 
 # Mongo Db Connectivity
-Mongo = pymongo.MongoClient('mongodb+srv://praveen:praveenroot@praveen21.lsdge0t.mongodb.net/?retryWrites=true&w=majority')
+Mongo = pymongo.MongoClient('mongodb+srv://ammu:1234@cluster0.tjwaqqq.mongodb.net/?retryWrites=true&w=majority')
 
 # Database & Collection Created
 db = Mongo['sample_airbnb']
